@@ -17,10 +17,10 @@ I enjoy building practical solutions using Python, working with data, and applyi
 ---
 
 ### Skills
-- **Programming:** Python, Java, C/C++, JavaScript, SQL  
-- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow (basics)  
+- **Programming:** Python, Java, C/C++, JavaScript, SQL, Typescript  
+- **Data & AI:** Pandas, NumPy, Scikit-learn, TensorFlow  
 - **Web:** Node.js, Express, MongoDB, REST APIs  
-- **Tools:** Git, GitHub, Docker (basics), Linux
+- **Tools:** Git, GitHub, Docker, Linux
 
 ---
 
