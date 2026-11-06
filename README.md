@@ -186,15 +186,6 @@ Worked on:
 
 🐍 Applied Machine Learning with Python
 
-
----
-
-# 📊 GitHub Analytics
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivagar028&show_icons=true)
-
-
 ---
 
 # 🤝 Open Source
