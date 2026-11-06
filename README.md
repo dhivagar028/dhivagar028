@@ -100,8 +100,6 @@ Python • FastAPI • LangGraph • Vector Database • LLMs
 ✔ AI-powered knowledge retrieval
 
 
-Repository:
-(Add link)
 
 
 ---
@@ -125,9 +123,6 @@ Java 17 • Spring Boot • Spring Security • PostgreSQL • React
 ✔ Developer workflow automation
 
 
-Repository:
-(Add link)
-
 
 ---
 
@@ -148,9 +143,6 @@ Features:
 ✔ Context-aware responses  
 ✔ Knowledge retrieval
 
-
-Repository:
-(Add link)
 
 
 ---
@@ -229,7 +221,7 @@ https://github.com/dhivagar028
 
 
 Email:
-your-email@example.com
+dhivagark86@gmail.com
 
 
 ---
