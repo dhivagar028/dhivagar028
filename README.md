@@ -1,183 +1,237 @@
 # Hi, I'm Dhivagar K 👋
 
-### Backend Engineer | AI/ML Engineer | Generative AI Developer
+## Software Engineer | Backend Developer | AI Engineer
 
 I am a Computer Science Engineering graduate passionate about building scalable backend systems, AI-powered applications, and intelligent automation solutions.
 
-I enjoy working with **Python, FastAPI, Java Spring Boot, Machine Learning, and Generative AI** to solve real-world problems.
+My focus areas include **Backend Engineering, Generative AI, Machine Learning, and Cloud-Native Applications**.
+
+I enjoy designing systems that combine strong software engineering principles with modern AI technologies.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & Engineering Graduate
-- 💻 Interested in Backend Engineering, AI Engineering, and Software Development
-- 🧠 Building applications using LLMs, RAG pipelines, and AI agents
-- 🔧 Experienced with REST APIs, databases, authentication, and cloud technologies
-- 🏆 Google Cloud Associate Cloud Engineer Certified
-- 👨‍💻 Open to Software Engineer, Backend Engineer, AI Engineer opportunities
+🎓 B.Tech Computer Science & Engineering Graduate
 
----
+💡 Interested in:
+- Backend Engineering
+- Artificial Intelligence
+- Generative AI Applications
+- Distributed Systems
+- Developer Tools
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+🚀 Currently building:
+- AI Agents
+- RAG-based applications
+- Backend APIs
+- Automation systems
 
 ---
 
-### Backend Development
+# 🛠 Technical Skills
 
-- FastAPI
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- PostgreSQL
-- MySQL
-- MongoDB
 
----
+## Languages
 
-### AI / Machine Learning
+Python  
+Java  
+JavaScript / TypeScript  
+SQL
 
-- Machine Learning
-- NLP
-- Generative AI
-- Retrieval Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- Vector Databases
-- TensorFlow
-- Scikit-learn
 
----
+## Backend Engineering
 
-### Tools & Platforms
+FastAPI  
+Spring Boot  
+REST APIs  
+JWT Authentication  
+Spring Security  
+Microservices Basics  
+PostgreSQL  
+MongoDB
 
-- Git & GitHub
-- Docker
-- Linux
-- Google Cloud
-- AWS (Learning)
+
+## AI / Machine Learning
+
+Machine Learning  
+Natural Language Processing  
+Generative AI  
+LLM Applications  
+RAG Systems  
+LangChain  
+LangGraph  
+Vector Databases  
+TensorFlow  
+Scikit-learn
+
+
+## Developer Tools
+
+Git  
+Docker  
+Linux  
+CI/CD Basics  
+Google Cloud  
+AWS Fundamentals
+
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔎 ResearchLens AI
 
-Agentic AI research assistant using:
+## 🔍 ResearchLens AI
 
-- FastAPI
-- LangGraph
-- RAG Pipeline
-- Vector Search
-- LLM-based reasoning
+### Agentic AI Research Assistant
+
+An AI-powered research assistant that uses retrieval augmented generation and agent workflows to provide intelligent document analysis.
+
+### Tech Stack
+
+Python • FastAPI • LangGraph • Vector Database • LLMs
+
+
+### Highlights
+
+✔ Document ingestion pipeline  
+✔ Semantic search  
+✔ Agent-based reasoning workflow  
+✔ AI-powered knowledge retrieval
+
+
+Repository:
+(Add link)
+
+
+---
+
+# 🤖 AI Backend Generator
+
+### AI-powered Spring Boot Application Generator
+
+A developer productivity tool that generates backend application structures using AI.
+
+### Tech Stack
+
+Java 17 • Spring Boot • Spring Security • PostgreSQL • React
+
+
+### Highlights
+
+✔ REST API generation  
+✔ Authentication setup  
+✔ Layered architecture generation  
+✔ Developer workflow automation
+
+
+Repository:
+(Add link)
+
+
+---
+
+# 📚 DevDocs Assistant
+
+### Intelligent Documentation Assistant
+
+AI assistant for understanding technical documentation using retrieval pipelines.
+
+### Tech Stack
+
+Python • LangGraph • Qdrant • Redis • Local LLMs
+
 
 Features:
-- Document ingestion
-- Semantic search
-- AI-powered research assistance
-- Cost-aware LLM routing
+
+✔ Document search  
+✔ Context-aware responses  
+✔ Knowledge retrieval
+
+
+Repository:
+(Add link)
 
 
 ---
 
-## 🤖 AI Spring Boot Backend Generator
-
-AI-powered backend generation platform.
-
-Built using:
-
-- Java 17
-- Spring Boot
-- Spring Security
-- JWT
-- PostgreSQL
-- React
-
-Features:
-- Generates backend project structure
-- Creates REST APIs
-- Authentication setup
-- Layered architecture
+# 💼 Professional Experience
 
 
----
+## Full Stack Developer Intern
 
-## 📚 DevDocs Assistant
+Vstand4U Solutions
 
-AI documentation assistant using:
+Working on:
 
-- Python
-- LangGraph
-- Qdrant
-- Redis
-- Local LLMs
-
-Features:
-- Semantic document search
-- Context-aware answers
-- Retrieval evaluation
+- Backend API development
+- Database design
+- Authentication systems
+- AI-powered application features
 
 
----
+## AI/ML Intern
 
-## 💼 JobPilot
+Novi Tech R&D
 
-AI-powered job assistant.
+Worked on:
 
-Technologies:
-
-- LangGraph
-- Browser automation
-- Vector databases
-
-Features:
-- Job discovery assistance
-- Resume matching
-- Workflow automation
-
-
----
-
-# 📊 GitHub Stats
-
-![Dhivagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhivagar028&show_icons=true&theme=tokyonight)
-
-
----
-
-# 📈 Contribution Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhivagar028&theme=tokyonight)
+- Machine learning workflows
+- Data preprocessing
+- Model evaluation
 
 
 ---
 
 # 🏆 Certifications
 
-- Google Cloud Associate Cloud Engineer
-- ServiceNow Certified Application Developer – GenAI
-- NPTEL Introduction to Machine Learning
-- Applied Machine Learning with Python
+
+☁ Google Cloud Associate Cloud Engineer
+
+🤖 ServiceNow Certified Application Developer - GenAI
+
+📊 NPTEL Introduction to Machine Learning
+
+🐍 Applied Machine Learning with Python
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhivagar028&show_icons=true)
+
+
+---
+
+# 🤝 Open Source
+
+Currently exploring contributions in:
+
+- Python ecosystem
+- AI/ML projects
+- Developer tools
+- Backend frameworks
 
 
 ---
 
 # 📫 Connect With Me
 
+
 LinkedIn:
 https://linkedin.com/in/dhivagar-k
+
 
 GitHub:
 https://github.com/dhivagar028
 
+
+Email:
+your-email@example.com
+
+
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ If you find my projects interesting, feel free to connect!
